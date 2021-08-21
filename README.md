@@ -3,7 +3,7 @@
 App link: https://flightpriceapiapp.herokuapp.com/
 
 # Directory Tree
-├── static 
+ ├── static 
 │   ├── css
 ├── template
 │   ├── home.html
